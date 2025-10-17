@@ -23,33 +23,17 @@ tags: shreenibas
 
 ## **STLC with Activities, Pre & Post Conditions, and Deliverables**
 
+---
+
 | Phase | Activities | Pre-Conditions | Post-Conditions | Deliverables |
 | --- | --- | --- | --- | --- |
-| **1\. Requirement Analysis** | \- Review SRS/BRD/FRS  
-\- Identify testable requirements  
-\- Prepare RTM | SRS / BRD / FRS documents available, stakeholders accessible | Requirements analyzed, RTM created | Requirement Traceability Matrix (RTM) |
-| **2\. Test Planning** | \- Define scope of testing  
-\- Decide testing types (functional, automation, etc.)  
-\- Allocate resources and tools  
-\- Estimate effort and schedule | Requirements analyzed, RTM available | Test Plan finalized, resources and strategy assigned | Test Plan Document, Resource Allocation, Test Strategy |
-| **3\. Test Case Design / Development** | \- Write test cases based on requirements  
-\- Prepare test data  
-\- Review test cases | Test Plan ready, requirements analyzed, RTM available | Test Cases and Test Data prepared, RTM updated | Test Cases / Test Scenarios, Test Data, Updated RTM |
-| **4\. Test Environment Setup** | \- Setup hardware, software, network  
-\- Configure testing tools  
-\- Verify environment setup with smoke tests | Test cases and test data ready | Test environment ready for execution | Test Environment Setup Document |
-| **5\. Test Execution** | \- Execute test cases manually or via automation  
-\- Log defects in tool  
-\- Re-test after fixes | Test environment ready, test cases and data available | Test cases executed, defects logged, execution status updated | Test Execution Reports, Defect Logs |
-| **6\. Defect Reporting & Tracking** | \- Log defects with severity/priority  
-\- Communicate with developers  
-\- Re-test resolved defects | Defects identified, defect tracking tool ready | Defects tracked, re-tested, reopened if needed | Defect Reports / Bug Reports |
-| **7\. Test Closure** | \- Evaluate exit criteria  
-\- Analyze test coverage and metrics  
-\- Archive test artifacts  
-\- Document lessons learned | All test cases executed, defects resolved or deferred | Test closure completed, metrics analyzed, test artifacts archived | Test Summary Report, Lessons Learned Document |
-
----
+| **1\. Requirement Analysis** | \- Review SRS/BRD/FRS- Identify testable requirements- Prepare RTM | SRS / BRD / FRS documents available, stakeholders accessible | Requirements analyzed, RTM created | Requirement Traceability Matrix (RTM) |
+| **2\. Test Planning** | \- Define scope of testing- Decide testing types (functional, automation, etc.)- Allocate resources and tools- Estimate effort and schedule | Requirements analyzed, RTM available | Test Plan finalized, resources and strategy assigned | Test Plan Document, Resource Allocation, Test Strategy |
+| **3\. Test Case Design / Development** | \- Write test cases based on requirements- Prepare test data- Review test cases | Test Plan ready, requirements analyzed, RTM available | Test Cases and Test Data prepared, RTM updated | Test Cases / Test Scenarios, Test Data, Updated RTM |
+| **4\. Test Environment Setup** | \- Setup hardware, software, network- Configure testing tools- Verify environment setup with smoke tests | Test cases and test data ready | Test environment ready for execution | Test Environment Setup Document |
+| **5\. Test Execution** | \- Execute test cases manually or via automation- Log defects in tool- Re-test after fixes | Test environment ready, test cases and data available | Test cases executed, defects logged, execution status updated | Test Execution Reports, Defect Logs |
+| **6\. Defect Reporting & Tracking** | \- Log defects with severity/priority- Communicate with developers- Re-test resolved defects | Defects identified, defect tracking tool ready | Defects tracked, re-tested, reopened if needed | Defect Reports / Bug Reports |
+| **7\. Test Closure** | \- Evaluate exit criteria- Analyze test coverage and metrics- Archive test artifacts- Document lessons learned | All test cases executed, defects resolved or deferred | Test closure completed, metrics analyzed, test artifacts archived | Test Summary Report, Lessons Learned Document |
 
 ## **STLC Diagram (Flow with Activities, Pre & Post Conditions)**
 
